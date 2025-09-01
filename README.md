@@ -10,7 +10,7 @@
 
 ♣️ Interested on animes, games, codings, programmings, drawings, Artificial intelligence, Data Science, and something related.
 
-<h1 align="right">🔗 Connect with me!</h1>
+<h2 align="right">🔗 Connect with me!</h2>
 <p align="right">
 <a href="https://instagram.com/noxturnearkie_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="noxturnearkie_" height="30" width="40" /></a>
 </p>
